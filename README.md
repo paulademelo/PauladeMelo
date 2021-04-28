@@ -10,7 +10,7 @@
 - :octocat: Mãe de duas gatas.
 
 ## Estudando as linguagens:construction_worker_woman:🕵️‍♀️🦖 
-`.c++` , `.py`, `.kt`, `.html`, `.css`
+`.c++`  `.py`  `.kt`  `.html`  `.css`
 
 ## Conheça minhas redes sociais 🌎
 - 💼 Meu perfil do <a href="https://www.linkedin.com/in/paulademelo/">LinkedIn</a>
