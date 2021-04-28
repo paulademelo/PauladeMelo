@@ -1,5 +1,5 @@
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🕵️‍♀️ Olá! Que bom te ver por aqui 🙋‍♀️</h1>
- <img align="center" width="80%" src="carrer.png" />
+ <img align="center" width="600px" src="carrer.png" />
 
 ## Quem sou eu
 - ⏭️ Caloura na programação.
