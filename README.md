@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">🕵️‍♀️ Olá! Que bom te ver por aqui 🙋‍♀️</h1>
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui 🙋‍♀️</h1>
  <img align="center" width="600px" src="carrer.png" />
 
 ## Quem sou eu
@@ -9,7 +9,7 @@
 - 👩‍❤️‍👨 Casada.
 - :octocat: Mãe de duas gatas.
 
-## Estudando as linguagens:construction_worker_woman:🦖 
+## Estudando as linguagens:construction_worker_woman:🕵️‍♀️🦖 
 `.c++` , `.py`, `.kt`, `.html`, `.css`
 
 ## Conheça minhas redes sociais 🌎:
