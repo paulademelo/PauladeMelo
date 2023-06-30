@@ -1,20 +1,21 @@
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui 🙋‍♀️</h1>
- <img align="center" width="600px" src="aventura.png" />
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui</h1>
+ <img align="center" width="300px" src="aventura.png" />
 
-## Quem sou eu
-- ⏭️ Caloura na programação.
-- 👩‍🎓 1º Semestre no curso de Desenvolvimento de Software na 🏫 FATEC.
-- 🏗️ Futura Full Stack.
-- 📚 Adoro ler.
-- 👩‍❤️‍👨 Casada.
+## Sobre mim
+- ⏭️ Dev Android Jr.
+- 👩‍🎓 5º Semestre no curso de Desenvolvimento de Software na 🏫 FATEC.
+- 📚 Amo ler.
 - :octocat: Mãe de duas gatas.
 
-## Estudando as linguagens:construction_worker_woman:🕵️‍♀️🦖 
-`.java` `.php`  `.c++`  `.py`  `.kt`  `.html`  `.css`
+## Estudando as linguagens
+ `.kt` `.java` `.py`  `.html`  `.css`
 
-## Conheça minhas redes sociais 🌎
-- 💼 Meu perfil do <a href="https://www.linkedin.com/in/paulademelo/">LinkedIn</a>
-- 💃 Meu perfil do <a href="https://www.instagram.com/paulameloti/">Instagram</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo\&layout=donut)](https://github.com/paulademelo/github-readme-stats)
+
+## Social Medias 🌎
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulademelo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/paulameloti/)
 
 ### Visitantes 👁️ 👁️  
   <img alingn="center" src="https://profile-counter.glitch.me/paulademelo/count.svg" />
