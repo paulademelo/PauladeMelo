@@ -11,7 +11,8 @@
  `.kt` `.java` `.py`  `.html`  `.css`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo\&layout=donut)](https://github.com/paulademelo/github-readme-stats)
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paulademelo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+
 
 ## Social Medias 🌎
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulademelo/)
