@@ -6,7 +6,7 @@
   
 
 ## Sobre mim
-- ⏭️ Dev Android Jr.
+- ⏭️ Dev Android Jr desde 2021.
 - 👩‍🎓 Último semestre no curso de Desenvolvimento de Software na 🏫 FATEC.
 - 📚 Amo ler.
 - :octocat: Mãe de duas gatas.
