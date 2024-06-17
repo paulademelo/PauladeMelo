@@ -1,18 +1,18 @@
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui</h1>
  <img align="center" width="300px" src="aventura.png" />
 
+ <img height="164em" src="https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=gruvbox&count_private=true"></img>
+ <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo&langs_count=8&theme=gruvbox&layout=compact"></img>
+  
+
 ## Sobre mim
 - ⏭️ Dev Android Jr.
-- 👩‍🎓 5º Semestre no curso de Desenvolvimento de Software na 🏫 FATEC.
+- 👩‍🎓 Último semestre no curso de Desenvolvimento de Software na 🏫 FATEC.
 - 📚 Amo ler.
 - :octocat: Mãe de duas gatas.
 
 ## Estudando as linguagens
- `.kt` `.java` `.py`  `.html`  `.css`
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=radical)
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paulademelo&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-
+ `.kt` `.java` `.py` `.dart` `.html`  `.css`
 
 ## Social Medias 🌎
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulademelo/)
