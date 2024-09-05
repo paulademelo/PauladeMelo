@@ -1,25 +1,39 @@
-<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui</h1>
- <img align="center" width="300px" src="aventura.png" />
+<h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui!</h1>
 
- <img height="164em" src="https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=transparent&count_private=true"></img>
- <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo&langs_count=8&theme=transparent&layout=compact"></img>
-  
+<p align="center">
+  <img align="center" width="300px" src="aventura.png" alt="Imagem representativa" />
+</p>
+
+<p align="center">
+  <img height="164em" src="https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=transparent&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo&langs_count=8&theme=transparent&layout=compact" alt="Linguagens mais usadas" />
+</p>
 
 ## Sobre mim
-- ⏭️ Dev Android Sr.
-- 👩‍🎓 Formanda no curso de Desenvolvimento de Software na 🏫 FATEC.
-- 📚 Amo ler.
-- :octocat: Mãe de duas gatas.
+- ⏭️ **Desenvolvedora Android Sr.**
+- 👩‍🎓 **Formanda no curso de Desenvolvimento de Software na** 🏫 **FATEC**
+- 📚 Apaixonada por leitura
+- 🐱 Mãe orgulhosa de duas gatas
 
-## Estudando as linguagens
- `.kt` `.java` `.py` `.dart` `.html`  `.css`
+## Linguagens e Tecnologias
+- 📱 **Android:** `.kt` `.java`
+- 🌐 **Web:** `.html` `.css`
+- 🐍 **Outras Linguagens:** `.py` `.dart`
 
 ## Social Medias 🌎
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulademelo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/paulameloti/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulademelo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/paulameloti/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-### Visitantes 👁️ 👁️  
-  <img alingn="center" src="https://profile-counter.glitch.me/paulademelo/count.svg" />
+### Visitantes 👁️👁️
+<p align="left">
+  <img src="https://profile-counter.glitch.me/paulademelo/count.svg" alt="Contador de visitas">
+</p>
    
 <!--
 **paulademelo/paulademelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
