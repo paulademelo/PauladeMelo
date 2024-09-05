@@ -1,12 +1,12 @@
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá! Que bom te ver por aqui</h1>
  <img align="center" width="300px" src="aventura.png" />
 
- <img height="164em" src="https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=gruvbox&count_private=true"></img>
- <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo&langs_count=8&theme=gruvbox&layout=compact"></img>
+ <img height="164em" src="https://github-readme-stats.vercel.app/api?username=paulademelo&show_icons=true&theme=transparent&count_private=true"></img>
+ <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulademelo&langs_count=8&theme=transparent&layout=compact"></img>
   
 
 ## Sobre mim
-- ⏭️ Dev Android Jr desde 2021.
+- ⏭️ Dev Android Sr.
 - 👩‍🎓 Formanda no curso de Desenvolvimento de Software na 🏫 FATEC.
 - 📚 Amo ler.
 - :octocat: Mãe de duas gatas.
